@@ -15,6 +15,6 @@ the ASCII-art version and output the new file as `images/kitten_ascii.png`.
 ## Example
 
 <p align="center">
-    <img src="https://github.com/ffiza/ascii-imager/blob/main/images/kitten.jpg?raw=true" height=200>
-    <img src="https://github.com/ffiza/ascii-imager/blob/main/images/output.png?raw=true" height=200>
+    <img src="https://github.com/ffiza/ascii-imager/blob/main/images/kitten.jpg?raw=true" height=400>
+    <img src="https://github.com/ffiza/ascii-imager/blob/main/images/output.png?raw=true" height=400>
 </p>
