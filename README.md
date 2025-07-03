@@ -10,7 +10,7 @@ python ./code/main.py --image images/kitten.jpg --resize_factor 4
 ```
 
 This code will resize the original image by a factor of `4`, will generate
-the ASCII-art version and output the new file as `images/kitten_ascii.png`.
+the ASCII-art version and output the new file as `images/output.png`.
 
 ## Example
 
